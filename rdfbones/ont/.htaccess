@@ -1,0 +1,4 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteRule ^$ https://bitbucket.org/ncl-intbio/sybiont [R=302,L]
